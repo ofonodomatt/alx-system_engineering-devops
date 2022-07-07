@@ -1,2 +1,2 @@
-file -C -m School
-file -i -m school.mgc *
+file --mime-type -m school.mgc *
+file -m school.mgc *
